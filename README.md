@@ -1,10 +1,12 @@
 # Vesc_WIFI
-SIMPLE VECS WIFI Brdige [At TCP HUB]
+Simple VESC WIFI brdige [At tcp hub]
 + Optimized and good for RT Data.
 + Lag fixed and unused codes deleted.
 + WIFI with password to much better BLE without password!
 + Easy install with Arduino IDE
 + IOS Supported [Another codes not work with ios and you receive update firmware error code!]
+
+
 
 Installtion method:
 - [Download arduino ide](https://www.arduino.cc/en/software)
@@ -18,6 +20,8 @@ Installtion method:
 - Connect your VESC RX to ESP32 TX and VESC TX to ESP32 RX and connect VIN - 5V pin to vesc.
 - Optional: I recommend you to use 10µF capacitor between V+ and G pin to prevent unstable voltage and send data without lag.
 - Your vesc wifi ready to use :)
+
+
 
 Tested with ESP32 DEVKIT V1 and VESC 5.02 - 5.03 - 6 - 6.2.
 Warning : You can use it to monitor and change settings or profiles, but do not use it to upload firmware.
