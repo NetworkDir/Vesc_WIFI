@@ -21,7 +21,13 @@ Installtion method:
 - Optional: I recommend you to use 10µF capacitor between V+ and G pin to prevent unstable voltage and send data without lag.
 - Your vesc wifi ready to use :)
 
-
+Also if you want install compiled and ready version with this [instrucation](https://www.aranacorp.com/en/generating-and-uploading-bin-files-for-esp32/) you can upload vesc_wifi.bin.
+Compiled version:
+SSID Name : Elshan_VESC
+SSID Password : jjeRNVkQC1eoQrz
+Vesc Port : 65102
+VESC_RX : D15
+VESC_TX : D13
 
 Tested with ESP32 DEVKIT V1 and VESC 5.02 - 5.03 - 6 - 6.2.
 Warning : You can use it to monitor and change settings or profiles, but do not use it to upload firmware.
