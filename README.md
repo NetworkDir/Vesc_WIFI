@@ -1,5 +1,5 @@
 # Vesc_WIFI
-Simple VESC WIFI brdige [At tcp hub]
+Simple VESC WIFI bridge [At tcp hub]
 + Optimized and good for RT Data.
 + Lag fixed and unused codes deleted.
 + WIFI with password to much better BLE without password!
